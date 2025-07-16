@@ -1,1 +1,1 @@
-<h1 align="Center">👋 Hey There ! Welcome to my Github</h1>
+<h1>👋 Hey There ! Welcome to my Github</h1>
