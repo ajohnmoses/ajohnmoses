@@ -1,1 +1,1 @@
-<h1>👋 Hey There ! Welcome to my Github</h1>
+<img src="https://media0.giphy.com/avatars/uttamjonn/xr75WtsNrJaW.gif"/>
