@@ -1,1 +1,1 @@
-<img src="https://media0.giphy.com/avatars/uttamjonn/xr75WtsNrJaW.gif" height="250"/>
+<img src="https://media.tenor.com/b5oKWl8GVXUAAAAM/welcome.gif" height="250" />
